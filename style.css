@@ -1,0 +1,16 @@
+h1{
+    margin: 0 auto;
+    text-align: center;
+}
+select{
+    margin-left: 45%;
+}
+svg{
+    margin: 0 auto;
+    display: block;
+}
+
+path{
+    stroke-width: 1px;
+    stroke:black;
+}
